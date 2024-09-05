@@ -89,12 +89,12 @@
 
   }
    .hero-text h1{
-    font-size: 5rem;
+    font-size: 2rem;
    }
 
    .btn{
-    padding: 20px 30px;
-    font-size: 2rem;
+    padding: 10px 20px;
+    font-size: 1rem;
     border: none;
     border-radius: 50px;
     background-color: #0066cc;
@@ -123,27 +123,27 @@
    }
 
    .mid-text h1{
-    font-size: 5rem;
+    font-size: 3rem;
     font-weight: bolder;
     margin-top: 20px;
    }
 
    .mid-text h2{
-    font-size: 3rem;
+    font-size: 2rem;
     line-height: 1.6;
     font-weight: 900;
    }
 
    .mid-text p{
-    font-size: 2rem;
+    font-size: 1.5rem;
     color: gray;
    }
 
  .mid-text button,
  #learn
  {
-    padding: 20px 30px;
-    font-size: 2.5rem;
+    padding: 10px 20px;
+    font-size: 1.5rem;
     margin-top: 20px;
     border-radius: 50px;
  }
@@ -183,7 +183,7 @@
  }
 
  .saving-text h1{
-    font-size: 5rem;
+    font-size: 3rem;
     margin-bottom: 20px;
     
  }
@@ -205,7 +205,7 @@
  }
 
  .investing-img{
-    width: 800px;
+    width: 500px;
  }
 
  .investing-img img{
@@ -219,11 +219,11 @@
  }
 
  .investing-text h1{
-    font-size: 5rem;
+    font-size: 3rem;
     margin-bottom: 20px;
  }
  .investing-text h2{
-    font-size: 2.5rem;
+    font-size: 2rem;
     margin-bottom: 20px;
  }
 
@@ -260,7 +260,7 @@
 
 .cover-text h2{
     color: #fff;
-    font-size: 5rem;
+    font-size: 3rem;
     padding-bottom: 50px;
     
     
@@ -278,7 +278,7 @@
 }
 
 .protect-img {
-    width: 800px;
+    width: 500px;
 }
 
 .protect-img img{
@@ -292,13 +292,13 @@
 }
 
 .Product-text h1{
-    font-size: 5rem;
+    font-size: 3rem;
     margin-bottom: 20px;
 }
 
 
 .Product-text h2{
-    font-size: 3rem;
+    font-size: 2rem;
 }
 
 /* -------------------------- */
@@ -323,17 +323,17 @@
 }
 
 .Budgeting-text h1{
-    font-size: 5rem;
+    font-size: 3rem;
     margin-bottom: 50px;
     
 }
 .Budgeting-text h2{
-    font-size: 3rem;
+    font-size: 2rem;
     margin-bottom: 50px;
 }
 
 .budgeting-img{
-    width: 800px;
+    width: 500px;
     margin: 0 auto;
 
     
@@ -365,14 +365,14 @@ footer{
     color: gray;
 }
 .footer-div h3{
-    font-size: 1rem;
+    font-size: 1.5rem;
     margin: 20px;
     color: gray;
 }
 
 .ego-bank p{
     text-align: center;
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: gray;
     margin: 50px;
 
@@ -560,8 +560,8 @@ footer{
     }
 
     #learn{
-            padding: 10px 20px;
-            font-size: 2rem;
+            padding: 5px 10px;
+            font-size: 1rem;
             margin-top: 10px;
         }
  
