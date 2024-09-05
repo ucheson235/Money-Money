@@ -211,6 +211,7 @@
  .saving-img{
     width: 400px;
     text-align: center;
+    margin: 0 auto;
  }
 
  .saving-img img{
