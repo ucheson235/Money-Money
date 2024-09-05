@@ -152,6 +152,10 @@
     margin: 0 auto;
    }
 
+   .mid-img img{
+    width: 100%;
+   }
+
  .mid-text button,
  #learn
  {
