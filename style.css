@@ -438,7 +438,7 @@ footer{
     }
 
     .hero-img {
-        width: 500px;
+        width: 400px;
     }
 
     .hero-img img{
@@ -452,9 +452,8 @@ footer{
     
     
        .mid-text h2{
-        font-size: 2rem;
-        line-height: 1.2;
-        font-weight: 500;
+        font-size: 1.5rem;
+        
        }
     
        .mid-text p{
@@ -468,7 +467,7 @@ footer{
      }
 
      .mid-img{
-        width: 500px;
+        width: 400px;
      }
 
      .mid-img img{
@@ -480,7 +479,7 @@ footer{
      }
 
      .saving-img{
-        width: 500px;
+        width: 400px;
 
      }
 
@@ -503,7 +502,7 @@ footer{
      }
 
      .investing-img{
-        width: 500px;
+        width: 400px;
         text-align: center;
      }
 
@@ -543,7 +542,7 @@ footer{
     }
 
     .protect-img {
-        width: 500px;
+        width: 400px;
         text-align: center;
         margin-top: 20px;
     }
@@ -554,11 +553,20 @@ footer{
     }
     
     .budgeting-img{
-        width: 500px;
+        width: 400px;
         margin: 0 auto;
     
         
     }
+
+    #learn{
+            padding: 10px 20px;
+            font-size: 2rem;
+            margin-top: 10px;
+        }
+ 
+    
+ 
 
 
 
