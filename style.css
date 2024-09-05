@@ -89,7 +89,7 @@
 
   }
    .hero-text h1{
-    font-size: 1rem;
+    font-size: 3rem;
    }
 
    .btn{
@@ -123,7 +123,7 @@
    }
 
    .mid-text h1{
-    font-size: 1rem;
+    font-size: 2.5rem;
     font-weight: bolder;
     margin-top: 20px;
    }
@@ -183,7 +183,7 @@
  }
 
  .saving-text h1{
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 20px;
     
  }
@@ -205,7 +205,7 @@
  }
 
  .investing-img{
-    width: 500px;
+    width: 300px;
  }
 
  .investing-img img{
@@ -219,7 +219,7 @@
  }
 
  .investing-text h1{
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 20px;
  }
  .investing-text h2{
@@ -278,7 +278,7 @@
 }
 
 .protect-img {
-    width: 500px;
+    width: 300px;
 }
 
 .protect-img img{
@@ -292,7 +292,7 @@
 }
 
 .Product-text h1{
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 20px;
 }
 
@@ -323,7 +323,7 @@
 }
 
 .Budgeting-text h1{
-    font-size: 1rem;
+    font-size: 2.5rem;
     margin-bottom: 50px;
     
 }
@@ -333,7 +333,7 @@
 }
 
 .budgeting-img{
-    width: 500px;
+    width: 300px;
     margin: 0 auto;
 
     
