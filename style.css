@@ -147,6 +147,11 @@
     color: gray;
    }
 
+   .mid-img {
+    width: 550px;
+    margin: 0 auto;
+   }
+
  .mid-text button,
  #learn
  {
@@ -185,7 +190,8 @@
 
  .saving{
     padding: 1rem 5rem;
-    
+    display: flex;
+    justify-content: space-between;
  }
 
  .saving-text{
@@ -211,7 +217,7 @@
 
  .saving-img {
     width: 550px;
-    margin: 0 auto;
+    
 }
 
 
