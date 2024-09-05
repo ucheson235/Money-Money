@@ -48,13 +48,13 @@
   }
   
   .nav-links li {
-    margin-left: 1.5rem;
+    margin-left: 1rem;
   }
   
   .nav-links a {
     color: black;
     text-decoration: none;
-    font-size: 1.5rem;
+    font-size: 1rem;
   }
   
   .nav-links a:hover {
@@ -63,7 +63,7 @@
 
   .div-btn button{
     padding: 10px 20px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     border: none;
     border-radius: 5px;
     background-color: rgb(207, 202, 202);
@@ -89,7 +89,7 @@
 
   }
    .hero-text h1{
-    font-size: 2rem;
+    font-size: 1rem;
    }
 
    .btn{
@@ -123,19 +123,19 @@
    }
 
    .mid-text h1{
-    font-size: 3rem;
+    font-size: 1rem;
     font-weight: bolder;
     margin-top: 20px;
    }
 
    .mid-text h2{
-    font-size: 2rem;
+    font-size: 0.9rem;
     line-height: 1.6;
     font-weight: 900;
    }
 
    .mid-text p{
-    font-size: 1.5rem;
+    font-size: 0.5rem;
     color: gray;
    }
 
@@ -143,7 +143,7 @@
  #learn
  {
     padding: 10px 20px;
-    font-size: 1.5rem;
+    font-size: 1rem;
     margin-top: 20px;
     border-radius: 50px;
  }
@@ -183,12 +183,12 @@
  }
 
  .saving-text h1{
-    font-size: 3rem;
+    font-size: 1rem;
     margin-bottom: 20px;
     
  }
  .saving-text h2{
-    font-size: 2rem;
+    font-size: 0.9rem;
     margin-bottom: 20px;
     line-height: 1.6;
     
@@ -219,11 +219,11 @@
  }
 
  .investing-text h1{
-    font-size: 3rem;
+    font-size: 1rem;
     margin-bottom: 20px;
  }
  .investing-text h2{
-    font-size: 2rem;
+    font-size: 0.9rem;
     margin-bottom: 20px;
  }
 
@@ -260,7 +260,7 @@
 
 .cover-text h2{
     color: #fff;
-    font-size: 3rem;
+    font-size: 1rem;
     padding-bottom: 50px;
     
     
@@ -292,13 +292,13 @@
 }
 
 .Product-text h1{
-    font-size: 3rem;
+    font-size: 1rem;
     margin-bottom: 20px;
 }
 
 
 .Product-text h2{
-    font-size: 2rem;
+    font-size: 0.9rem;
 }
 
 /* -------------------------- */
@@ -323,12 +323,12 @@
 }
 
 .Budgeting-text h1{
-    font-size: 3rem;
+    font-size: 1rem;
     margin-bottom: 50px;
     
 }
 .Budgeting-text h2{
-    font-size: 2rem;
+    font-size: 0.9rem;
     margin-bottom: 50px;
 }
 
@@ -360,19 +360,19 @@ footer{
 }
 
 .footer-div h2{
-    font-size: 2rem;
+    font-size: 1rem;
     margin: 20px;
     color: gray;
 }
 .footer-div h3{
-    font-size: 1.5rem;
+    font-size: 0.9rem;
     margin: 20px;
     color: gray;
 }
 
 .ego-bank p{
     text-align: center;
-    font-size: 1rem;
+    font-size: 0.9rem;
     color: gray;
     margin: 50px;
 
