@@ -93,7 +93,7 @@
    }
 
    .hero-img{
-    width: 350px;
+    width: 400px;
    }
 
    .hero-img img{
@@ -166,7 +166,7 @@
 
  .mid-img{
     text-align: center;
-    width: 350px;
+    width: 400px;
 
  }
 
@@ -209,7 +209,8 @@
  }
 
  .saving-img{
-    width: 350px;
+    width: 400px;
+    text-align: center;
  }
 
  .saving-img img{
@@ -226,7 +227,7 @@
  }
 
  .investing-img{
-    width: 350px;
+    width: 400px;
  }
 
  .investing-img img{
@@ -299,7 +300,7 @@
 }
 
 .protect-img {
-    width: 350px;
+    width: 400px;
 }
 
 .protect-img img{
@@ -354,7 +355,7 @@
 }
 
 .budgeting-img{
-    width: 350px;
+    width: 400px;
     margin: 0 auto;
 
     
